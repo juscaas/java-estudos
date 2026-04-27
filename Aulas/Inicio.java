@@ -20,7 +20,7 @@ public class Inicio {
 
         double media = (nota1 + nota2 + nota3)/3;
 
-        System.out.println("A nota 1 é: "+ media);
+        System.out.println("A sua média é: "+ media);
 
             if(media>=7){
                 System.out.println("Parabéns passou");
